@@ -421,6 +421,7 @@ span{
 
 
 .adp {
+    background: var(--second-bg-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -473,7 +474,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .wfs h4{
@@ -486,7 +487,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .api h4{
@@ -495,7 +496,18 @@ span{
     margin-bottom: 1rem;
 }
 
+.dea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--second-bg-color);
+}
 
+.dea h4{
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
 
 
 
