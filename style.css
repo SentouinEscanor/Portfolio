@@ -11,6 +11,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.home img{
+    border-radius: 5rem;
+}
+
+.about img{
+    border-radius: 5rem;
+}
+
 :root{
     --bg-color: #1f242d;
     --second-bg-color: #323946;
@@ -504,6 +512,19 @@ span{
 }
 
 .dea h4{
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+.cpl {
+    background: var(--second-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cpl h4{
     text-align: center;
     font-size: 4rem;
     margin-bottom: 1rem;

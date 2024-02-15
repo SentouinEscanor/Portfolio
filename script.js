@@ -25,7 +25,7 @@ window.onscroll = () => {
 
 // typed animation
 const typed = new Typed('.multiple-text', {
-    strings: ['a Software Engineering Student','attending at Lithan Academy'],
+    strings: ['a Application Development Student','attending at Lithan Academy'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
